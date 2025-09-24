@@ -1,0 +1,20 @@
+practise qustion --
+
+
+@1--------Sum of Numbers
+Find the sum of numbers from 1 to 100 using a for loop.
+
+
+
+@2---------Sum of Even Numbers
+Find the sum of all even numbers between 1 and 100.
+
+
+@3--------- Multiplication Table
+Take a number from the user and print its multiplication table (1 to 10).
+
+
+
+@4-------------Reverse Multiplication Table
+Take a number from the user and print its multiplication table from 10 down to 1.
+

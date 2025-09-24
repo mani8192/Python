@@ -1,0 +1,27 @@
+Practise qustion in condition statment ----
+
+@1----Vote Eligibility
+
+Ask the user for their age.
+If the age is 18 or above, print "You can vote". Otherwise, print "You cannot vote".
+
+@2----Even or Odd
+
+Take a number as input.
+Check if it’s even or odd.
+
+@3-----Positive, Negative, or Zero
+
+Take a number as input.
+Print whether it’s positive, negative, or zero.
+
+@4-----Pass or Fail
+
+Ask the user for their exam marks.
+If marks are 33 or more, print "Pass". Otherwise, "Fail".
+
+@5-------Number Comparison
+
+Take two numbers as input.
+Print which number is greater, or if they are equal.
+
