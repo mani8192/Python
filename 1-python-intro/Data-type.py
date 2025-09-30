@@ -1,9 +1,9 @@
 # Data type in python --
 
-age  = 20
-name = 'manish tiwari'
-sallery = 0.0
-is_student = True
+age  = 20 #integer
+name = 'manish tiwari' #string
+sallery = 0.0 # float 
+is_student = True  #bolean
 is_noStudent = False
 
 

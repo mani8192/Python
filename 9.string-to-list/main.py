@@ -8,9 +8,6 @@ l = user.split()
 print(l)
 
 
-
-
-
 # take a multiple input from user and convert to string --
 
 

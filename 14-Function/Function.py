@@ -58,3 +58,15 @@ def sum2 (b):
 
 sum_2 = sum2(22)
 print(sum_2)
+
+
+
+
+# student_data 
+def stuent (name ,age , cource , ):
+    print(f" name :-{name}\n  age :-{age} \n cource :-{cource}")
+    return
+    
+stu1 = stuent('manish tiwari' , 20 , 'BCA')
+stu2 = stuent('anna ' , 20 , 'BCA')
+stu3 = stuent('kelly' , 21 , 'B.Tech')

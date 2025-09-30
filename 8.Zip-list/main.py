@@ -14,3 +14,4 @@ count = ["one" , "two" , "three" , "four" , "five" ,"six" , "seven" ,"eight" , "
 for num , count in zip(num , count):
     print(num ,"-" , count)    
 
+

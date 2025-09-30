@@ -4,7 +4,6 @@ user = input("enter a name :-")
 print(user)
 
 
-
 # Count the number of vowels in a given string.
 
 

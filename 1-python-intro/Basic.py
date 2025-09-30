@@ -1,8 +1,22 @@
 # print a first code --
 print("Hello manish tiwari")
 
+print('Hello anna')
+
+print('''
+      hello i'm
+      anna
+      Demons
+      tanjiro
+      akaza
+      kelly
+      pitter  
+    ''')
 
 
+# input from user --
+name = input("Enter a name:-")
+print(name)
 
 # sum of two number --
 
@@ -10,6 +24,7 @@ a = 10
 b = 20
 sum = a + b
 print(sum)
+
 
 
 
